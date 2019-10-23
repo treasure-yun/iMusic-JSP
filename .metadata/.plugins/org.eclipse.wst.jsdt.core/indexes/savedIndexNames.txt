@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\iMusic\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4166524.index
+1525237257.index
+3759710441.index
+1455948834.index
+1144911418.index
+4210128804.index
